@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rookoyole/booksearch">
-    <img src="./src/assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
+    <img src="./client/src/assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MERN Book Search Engine</h3>
@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](src/assets/images/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](client/src/assets/images/screenshot.png)
 <br />
 The purpose of this project was to take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server.
 
@@ -83,7 +83,7 @@ Features:
 
 Repository Link: [https://github.com/rookoyole/booksearch](https://github.com/rookoyole/booksearch)
 
-Deployed Link: [https://rookoyole.github.io/booksearch/](https://rookoyole.github.io/booksearch/)
+Deployed Link: [https://mighty-depths-45427.herokuapp.com/](https://mighty-depths-45427.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
@@ -104,4 +104,4 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 [issues-url]: https://github.com/rookoyole/booksearch/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: src/assets/images/screenshot.png
+[product-screenshot]: client/src/assets/images/screenshot.png
